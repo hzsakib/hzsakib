@@ -1,23 +1,22 @@
 <div align="center">
 
-<img src="avatar.svg" alt="Mohammod Sakib digital avatar" width="160" height="160" />
+<img src="avatar.svg" alt="Mohammad Sakib digital avatar" width="160" height="160" />
 
-# Mohammod Sakib
+# Mohammad Sakib
 
-**Web Developer · Product Builder · Cryptocurrency**
+**Cryptocurrency · Project Management · Product Marketing · Digital Products**
 
-Bangladesh · Building websites, digital products, and crypto-aware applications
+Bangladesh · Building growth systems, token projects, and a digital-product company
 
 [GitHub](https://github.com/hzsakib) · [Portfolio](https://github.com/hzsakib/hzsakib.github.io)
 
 <br />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Crypto](https://img.shields.io/badge/Cryptocurrency-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Marketing](https://img.shields.io/badge/Product_Marketing-111827?style=for-the-badge)
+![PM](https://img.shields.io/badge/Project_Management-2563EB?style=for-the-badge)
+![Products](https://img.shields.io/badge/Digital_Products-C4A574?style=for-the-badge&logoColor=white)
+![Web](https://img.shields.io/badge/Websites-0F172A?style=for-the-badge)
 
 </div>
 
@@ -25,43 +24,51 @@ Bangladesh · Building websites, digital products, and crypto-aware applications
 
 ## About
 
-I design and build websites and digital products with a focus on clarity, structure, and real use. I also study cryptocurrency markets, blockchain fundamentals, and how web products can connect to on-chain systems.
+I work in the cryptocurrency sector with a focus on taking a project from an idea to a structured launch. That includes planning the product, coordinating a team, preparing a token for listing, and running marketing that is meant to produce growth and sales.
 
-My work sits at the intersection of:
+I operate with a team. We approach projects that need execution and offer a full working unit: project management, marketing, and commercial growth. The aim is not only visibility. The aim is continuation of sales after the first wave of attention.
 
-- Front-end websites and landing pages
-- Product documentation and digital downloads
-- Cryptocurrency literacy applied to product and web decisions
+Alongside client and partnership work, I am building digital products and websites under my own name, with the long-term goal of a company based on digital products.
+
+## What I do
+
+- Structure cryptocurrency projects from scratch
+- Prepare and manage token listing processes
+- Lead project management across product, marketing, and delivery
+- Run product marketing for growth and sales
+- Create digital products and websites
+- Work with a team that can be placed inside an existing project to extend its growth
 
 ## Goals
 
-- Ship a public portfolio of websites I have designed and built
-- Publish clean, documented repositories that a recruiter or client can review in minutes
-- Build web products that explain or use cryptocurrency without unnecessary complexity
-- Grow this GitHub account into a professional record of shipped work, not only ideas
+- Document professional work in public repositories that a partner can review quickly
+- Ship digital products and websites that stand on their own
+- Build a durable company around digital products, not one-off campaigns
+- Keep cryptocurrency execution and product marketing in the same operating system
 
 ## Capabilities
 
 | Area | Focus |
 | --- | --- |
-| Web | Semantic HTML, modern CSS, responsive layouts, JavaScript for interaction |
-| Product | Positioning, structure, and presentation of digital products |
-| Crypto | Market structure, Bitcoin and Ethereum basics, wallets, and product implications |
-| Delivery | Git, GitHub, readable README files, and GitHub Pages |
+| Cryptocurrency | Project setup from scratch, token listing process, launch structure |
+| Project management | Team coordination, delivery, working inside live projects |
+| Marketing | Product marketing, growth, and sales systems |
+| Digital products | Offers, packaging, and websites that sell the product |
+| Direction | A digital-product company built over time |
 
 ## Featured work
 
 | Project | Description |
 | --- | --- |
-| [Portfolio site](https://github.com/hzsakib/hzsakib.github.io) | Public portfolio repository for websites and professional presence |
+| [Portfolio](https://github.com/hzsakib/hzsakib.github.io) | Public site for professional presence and upcoming digital products |
 
-Additional repositories will be pinned here as they are published.
+Client and partnership work is not listed here unless a project is cleared for public mention.
 
 ## Currently building
 
-- A professional portfolio on GitHub Pages
-- Website projects with production-ready structure and documentation
-- Crypto-informed product experiments that stay practical
+- A public professional presence for crypto, marketing, and digital products
+- Digital product and website projects under my own brand
+- Repeatable systems for project growth and sales
 
 ## Contact
 
