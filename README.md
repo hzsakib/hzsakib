@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mohammod Sakib
 
-<!--
-**hzsakib/hzsakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder from Bangladesh. I work at the intersection of digital products, stories, and practical systems.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Digital products that combine utility with emotion
+- Guides, workbooks, and companion materials for real-life transitions
+- Clean documentation and presentable project pages
+
+## Currently exploring
+
+- First-year parent resources that help break unhelpful cycles
+- Product ideas that serve fandom and feeling, not only workplace templates
+
+## Contact
+
+- GitHub: [hzsakib](https://github.com/hzsakib)
+
+---
+
+*This profile is a work in progress. Repositories and projects will appear here as they are published.*
