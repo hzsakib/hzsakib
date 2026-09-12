@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="avatar.svg" alt="Mohammod Sakib digital avatar" width="160" height="160" />
+
 # Mohammod Sakib
 
 **Web Developer · Product Builder · Cryptocurrency**
@@ -71,7 +73,5 @@ Additional repositories will be pinned here as they are published.
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hzsakib&show_icons=true&theme=transparent&hide_border=true)
-
-*Profile picture and additional project repositories will be added as work is published.*
 
 </div>
